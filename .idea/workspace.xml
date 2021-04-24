@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc2b1147-6883-4cb3-a87a-35e1613443cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/vladann.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rWZmHUlAhy2c5Dok7gmhFQTm7f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wedding/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc2b1147-6883-4cb3-a87a-35e1613443cc" name="Default Changelist" comment="" />
+      <created>1619093965040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619093965040</updated>
+      <workItem from="1619093966701" duration="1656000" />
+      <workItem from="1619095812351" duration="1761000" />
+      <workItem from="1619267935254" duration="1825000" />
+      <workItem from="1619269885427" duration="1632000" />
+      <workItem from="1619271785990" duration="1729000" />
+      <workItem from="1619273705333" duration="1557000" />
+      <workItem from="1619276051139" duration="1687000" />
+      <workItem from="1619277917515" duration="1587000" />
+      <workItem from="1619279727113" duration="1378000" />
+      <workItem from="1619281699094" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="303" width="598" height="548" key="find.popup" timestamp="1619271857695">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="661" y="303" width="598" height="548" key="find.popup/0.23.1920.1108@0.23.1920.1108" timestamp="1619271857695" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1619279068136">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1920.1108@0.23.1920.1108" timestamp="1619279068136" />
+    <state x="625" y="268" key="run.anything.popup" timestamp="1619096284970">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="625" y="268" key="run.anything.popup/0.23.1920.1108@0.23.1920.1108" timestamp="1619096284970" />
+  </component>
+</project>
