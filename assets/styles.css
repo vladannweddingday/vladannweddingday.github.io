@@ -293,7 +293,7 @@ html.public-wedding-page {
 }
 
 #public-wrapper .names-section .names-accent-top-right {
-    background-image: url(assets/names-accent-top-right.png);
+    background-image: url(names-accent-top-right.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top right;
@@ -311,7 +311,7 @@ only screen and (min-device-pixel-ratio:2),
 only screen and (min-resolution:192dpi),
 only screen and (min-resolution:2dppx) {
     #public-wrapper .names-section .names-accent-top-right {
-        background-image: url(assets/names-accent-top-right@2x.png)
+        background-image: url(names-accent-top-right@2x.png)
     }
 }
 
@@ -322,8 +322,42 @@ only screen and (min-resolution:2dppx) {
     }
 }
 
+/*a*/
+#public-wrapper .names-section .names-accent-bottom-right {
+    background-image: url(names-accent-top-right.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top right;
+    position: absolute;
+    height: 200px;
+    width: 33%;
+    bottom: 28%;
+    right: 0
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (min--moz-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:2/1),
+only screen and (min-device-pixel-ratio:2),
+only screen and (min-resolution:192dpi),
+only screen and (min-resolution:2dppx) {
+    #public-wrapper .names-section .names-accent-bottom-right {
+        background-image: url(names-accent-top-right@2x.png)
+    }
+}
+
+@media (min-width:768px) {
+    #public-wrapper .names-section .names-accent-bottom-right {
+        height: 472px;
+        bottom: 28%;
+    }
+}
+
+
+/**/
+
 #public-wrapper .names-section .names-accent-bottom-left {
-    background-image: url(assets/names-accent-bottom-left.png);
+    background-image: url(names-accent-bottom-left.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom left;
@@ -341,7 +375,7 @@ only screen and (min-device-pixel-ratio:2),
 only screen and (min-resolution:192dpi),
 only screen and (min-resolution:2dppx) {
     #public-wrapper .names-section .names-accent-bottom-left {
-        background-image: url(assets/names-accent-bottom-left@2x.png)
+        background-image: url(names-accent-bottom-left@2x.png)
     }
 }
 
@@ -351,6 +385,37 @@ only screen and (min-resolution:2dppx) {
         height: 472px
     }
 }
+/**/
+#public-wrapper .names-section .names-accent-top-left {
+    background-image: url(names-accent-bottom-left.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    position: absolute;
+    height: 200px;
+    width: 33%;
+    left: 0;
+    bottom: 15%
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (min--moz-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:2/1),
+only screen and (min-device-pixel-ratio:2),
+only screen and (min-resolution:192dpi),
+only screen and (min-resolution:2dppx) {
+    #public-wrapper .names-section .names-accent-top-left {
+        background-image: url(names-accent-bottom-left@2x.png)
+    }
+}
+
+@media (min-width:768px) {
+    #public-wrapper .names-section .names-accent-top-left {
+        bottom: 15%;
+        height: 472px
+    }
+}
+/**/
 
 #public-wrapper .wedding-info-section .horizontal .location .in {
     display: none
@@ -795,12 +860,12 @@ a.tel {
     }
 }
 
-#public-wrapper .page-content .page-accent-bottom-left {
-    background-image: url(assets/stories-accent-bottom-left.png);
+#public-wrapper .page-content .page-accent-top-left {
+    background-image: url(stories-accent-bottom-left.png);
     background-size: contain;
     height: 210px;
     width: 43%;
-    bottom: 37px;
+    top: 40%;
     left: 0;
     background-repeat: no-repeat;
     position: absolute
@@ -812,21 +877,21 @@ only screen and (-o-min-device-pixel-ratio:2/1),
 only screen and (min-device-pixel-ratio:2),
 only screen and (min-resolution:192dpi),
 only screen and (min-resolution:2dppx) {
-    #public-wrapper .page-content .page-accent-bottom-left {
-        background-image: url(assets/stories-accent-bottom-left@2x.png)
+    #public-wrapper .page-content .page-accent-top-left {
+        background-image: url(stories-accent-bottom-left@2x.png)
     }
 }
 
 @media (min-width:768px) {
-    #public-wrapper .page-content .page-accent-bottom-left {
+    #public-wrapper .page-content .page-accent-top-left {
         width: 33%;
         height: 459px;
         bottom: 137px
     }
 }
 
-#public-wrapper .page-content .page-accent-bottom-right {
-    background-image: url(assets/stories-accent-top-right.png);
+#public-wrapper .page-content .page-accent-top-right {
+    background-image: url(stories-accent-top-right.png);
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
@@ -834,7 +899,7 @@ only screen and (min-resolution:2dppx) {
     height: 210px;
     width: 45%;
     right: 0;
-    bottom: 45%
+    bottom: 70%
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:2),
@@ -843,8 +908,16 @@ only screen and (-o-min-device-pixel-ratio:2/1),
 only screen and (min-device-pixel-ratio:2),
 only screen and (min-resolution:192dpi),
 only screen and (min-resolution:2dppx) {
-    #public-wrapper .page-content .page-accent-bottom-right {
-        background-image: url(assets/stories-accent-top-right@2x.png)
+    #public-wrapper .page-content .page-accent-top-right {
+        background-image: url(stories-accent-top-right@2x.png)
+    }
+}
+
+@media (min-width:768px) {
+    #public-wrapper .page-content .page-accent-top-right {
+        width: 33%;
+        height: 459px;
+        bottom: 60%;
     }
 }
 
@@ -866,4 +939,13 @@ only screen and (min-resolution:2dppx) {
     color: #000;
     letter-spacing: 1px;
     line-height: 21px
+}
+
+#public-wrapper #footer .footer {
+    padding: 10px 0;
+    height: 45px;
+}
+
+.time-start {
+    font-size: 25px;
 }

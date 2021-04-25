@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc2b1147-6883-4cb3-a87a-35e1613443cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/styles2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,9 @@
       <workItem from="1619350786962" duration="1416000" />
       <workItem from="1619355369087" duration="507000" />
       <workItem from="1619356192862" duration="1284000" />
-      <workItem from="1619357998295" duration="412000" />
+      <workItem from="1619357998295" duration="1501000" />
+      <workItem from="1619359835383" duration="1767000" />
+      <workItem from="1619361644495" duration="1178000" />
     </task>
     <servers />
   </component>
@@ -82,14 +83,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="424" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619359229595">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="424" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1108@0.23.1920.1108" timestamp="1619359229595" />
     <state x="648" y="320" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1619356199433">
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
     <state x="648" y="320" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1108@0.23.1920.1108" timestamp="1619356199433" />
-    <state x="100" y="123" width="1720" height="908" key="DiffContextDialog" timestamp="1619352422275">
+    <state x="100" y="123" width="1720" height="908" key="DiffContextDialog" timestamp="1619361701284">
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
-    <state x="100" y="123" width="1720" height="908" key="DiffContextDialog/0.23.1920.1108@0.23.1920.1108" timestamp="1619352422275" />
+    <state x="100" y="123" width="1720" height="908" key="DiffContextDialog/0.23.1920.1108@0.23.1920.1108" timestamp="1619361701284" />
     <state x="661" y="303" width="598" height="548" key="find.popup" timestamp="1619271857695">
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
@@ -102,5 +107,9 @@
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
     <state x="625" y="268" key="run.anything.popup/0.23.1920.1108@0.23.1920.1108" timestamp="1619096284970" />
+    <state x="625" y="271" key="search.everywhere.popup" timestamp="1619361473408">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="625" y="271" key="search.everywhere.popup/0.23.1920.1108@0.23.1920.1108" timestamp="1619361473408" />
   </component>
 </project>
