@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc2b1147-6883-4cb3-a87a-35e1613443cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/vladann.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -30,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -65,7 +70,11 @@
       <workItem from="1619276051139" duration="1687000" />
       <workItem from="1619277917515" duration="1587000" />
       <workItem from="1619279727113" duration="1378000" />
-      <workItem from="1619281699094" duration="286000" />
+      <workItem from="1619281699094" duration="1657000" />
+      <workItem from="1619350786962" duration="1416000" />
+      <workItem from="1619355369087" duration="507000" />
+      <workItem from="1619356192862" duration="1284000" />
+      <workItem from="1619357998295" duration="412000" />
     </task>
     <servers />
   </component>
@@ -73,6 +82,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="648" y="320" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1619356199433">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="648" y="320" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1108@0.23.1920.1108" timestamp="1619356199433" />
+    <state x="100" y="123" width="1720" height="908" key="DiffContextDialog" timestamp="1619352422275">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="100" y="123" width="1720" height="908" key="DiffContextDialog/0.23.1920.1108@0.23.1920.1108" timestamp="1619352422275" />
     <state x="661" y="303" width="598" height="548" key="find.popup" timestamp="1619271857695">
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
